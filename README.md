@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
