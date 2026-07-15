@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0078-subsets) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0078-subsets) |
@@ -51,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
