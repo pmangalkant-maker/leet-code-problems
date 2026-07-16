@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
