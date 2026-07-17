@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
 | [1929-concatenation-of-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0131-palindrome-partitioning) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
