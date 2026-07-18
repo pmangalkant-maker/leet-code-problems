@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
 | ------- |
@@ -70,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
+| [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1929-concatenation-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
 | ------- |
@@ -90,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
