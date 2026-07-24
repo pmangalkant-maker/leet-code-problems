@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0046-permutations) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0141-linked-list-cycle) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
