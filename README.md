@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
+| [1470-shuffle-the-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
