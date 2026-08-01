@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1470-shuffle-the-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Depth-First Search
 |  |
