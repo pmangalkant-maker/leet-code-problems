@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0724-find-pivot-index) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Depth-First Search
@@ -169,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
