@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0509-fibonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
