@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
