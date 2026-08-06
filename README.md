@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0131-palindrome-partitioning) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0342-power-of-four) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
