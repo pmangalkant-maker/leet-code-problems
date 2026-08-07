@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0342-power-of-four) |
