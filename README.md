@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0042-trapping-rain-water) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0278-first-bad-version) |
