@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0622-design-circular-queue) |
 ## Combinatorics
 |  |
 | ------- |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0881-boats-to-save-people) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
