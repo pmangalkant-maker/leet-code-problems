@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0342-power-of-four) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0881-boats-to-save-people) |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0622-design-circular-queue) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
