@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0948-bag-of-tokens) |
