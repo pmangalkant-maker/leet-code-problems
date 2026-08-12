@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0622-design-circular-queue) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0948-bag-of-tokens) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
