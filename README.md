@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0342-power-of-four) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0509-fibonacci-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2540-minimum-common-value) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1768-merge-strings-alternately](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
