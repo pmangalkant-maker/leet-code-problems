@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1768-merge-strings-alternately](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1768-merge-strings-alternately) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
