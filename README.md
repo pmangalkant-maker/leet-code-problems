@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0138-copy-list-with-random-pointer) |
