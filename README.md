@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0948-bag-of-tokens) |
 | [1109-corporate-flight-bookings](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1386-cinema-seat-allocation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
+| [1386-cinema-seat-allocation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0134-gas-station) |
 | [0881-boats-to-save-people](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0948-bag-of-tokens) |
+| [1386-cinema-seat-allocation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1386-cinema-seat-allocation) |
 ## Timsort
 |  |
 | ------- |
