@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1386-cinema-seat-allocation) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
