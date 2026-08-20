@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
