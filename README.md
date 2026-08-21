@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0948-bag-of-tokens) |
+| [1002-find-common-characters](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1002-find-common-characters) |
 | [1109-corporate-flight-bookings](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1386-cinema-seat-allocation) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
+| [1002-find-common-characters](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1002-find-common-characters](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
