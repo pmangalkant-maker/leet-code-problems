@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1768-merge-strings-alternately) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
