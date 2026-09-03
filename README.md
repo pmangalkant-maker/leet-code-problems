@@ -265,12 +265,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0100-same-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -427,4 +431,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
