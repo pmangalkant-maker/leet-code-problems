@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/2469-convert-the-temperature) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
