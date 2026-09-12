@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0948-bag-of-tokens) |
 | [1002-find-common-characters](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1002-find-common-characters) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1109-corporate-flight-bookings](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1386-cinema-seat-allocation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -435,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
