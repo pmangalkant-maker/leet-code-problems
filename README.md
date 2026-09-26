@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0503-next-greater-element-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0622-design-circular-queue) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -452,6 +456,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pmangalkant-maker/leet-code-problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
